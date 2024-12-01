@@ -2,7 +2,7 @@
 
 # Fix Chinese font for Telegram Desktop for once and for all
 
-### Usage:
+### Usage
 Download the executable, place it besides Telegram Desktop.exe
 
 Afterwards, run the exe to start Telegram Desktop.
@@ -11,4 +11,5 @@ Afterwards, run the exe to start Telegram Desktop.
 Proudly uses:
 
 blook: https://github.com/std-microblock/blook
-xmake: xmake.io
+
+xmake:xmake.io
